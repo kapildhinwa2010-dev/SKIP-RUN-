@@ -1,5 +1,7 @@
 # SKIP-RUN
 
+[![Stars](https://img.shields.io/github/stars/kapildhinwa2010-dev/SKIP-RUN-?style=flat-square)](https://github.com/kapildhinwa2010-dev/SKIP-RUN-/stargazers) [![Forks](https://img.shields.io/github/forks/kapildhinwa2010-dev/SKIP-RUN-?style=flat-square)](https://github.com/kapildhinwa2010-dev/SKIP-RUN-/network/members) [![Issues](https://img.shields.io/github/issues/kapildhinwa2010-dev/SKIP-RUN-?style=flat-square)](https://github.com/kapildhinwa2010-dev/SKIP-RUN-/issues) [![Top language](https://img.shields.io/github/languages/top/kapildhinwa2010-dev/SKIP-RUN-?style=flat-square)](https://github.com/kapildhinwa2010-dev/SKIP-RUN-)
+
 Depth fakeness test: skip every k-th block of a stack and measure how much the behavior actually changes.
 
 Deep stacks often contain layers that do almost nothing. SKIP-RUN runs a stack of additive blocks complete, then again with every k-th block removed. Small deltas mean that part of the depth is just numbers piled up, not real computation.
